@@ -1,5 +1,6 @@
 # TODO
-
+1. Iterator creation usage
+2. Inject code to make an array
 
 # LLVM_middleend_template
 
